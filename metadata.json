@@ -1,0 +1,7 @@
+{
+  "name": "Copy of I Perform - School Management System",
+  "description": "A comprehensive school management system for Directors of Studies, Teachers, and Students, built with React and powered by Gemini for dynamic data simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
